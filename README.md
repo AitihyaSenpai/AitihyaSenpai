@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Aitihya
 - 👀 I’m interested in coading
-- 🌱 I’m currently learning js, html, css, ts
+- 🌱 I’m currently learning js, html, css, Python
+- 

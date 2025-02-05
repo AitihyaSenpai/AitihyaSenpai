@@ -17,7 +17,7 @@ I'm currently learning Python and diving into the world of programming! 🤖
 - ✅ Contribute to open-source projects in the future.
 
 ### Connect with Me:
-- 💌 Reach me via GitHub Discussions or Issues!
+- 💌 Reach me via aitihyarahman@gmail.com
 
 Thanks for visiting my profile! Happy Coding! 📚🚀
 
